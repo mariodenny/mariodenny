@@ -1,5 +1,5 @@
 # 💫 About Me:
-Kodingnext Advanced Teacher<br>Laravel, Flask, React<br>PHP, Python, Javascript<br>Deep dive in world of programming through teaching and sharing knowledge
+A student with job as a teacher at Kodingnext. Deep dive into programming through teaching. I try to be better person every day.
 
 
 ## 🌐 Socials:
